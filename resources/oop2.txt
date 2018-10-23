@@ -1,0 +1,10 @@
+Object-Oriented Design
+Object-Oriented Design (OOD) involves implementation of the conceptual model produced during object-oriented analysis. In OOD, concepts in the analysis model, which are technology-independent, are mapped onto implementing classes, constraints are identified and interfaces are designed, resulting in a model for the solution domain, i.e., a detailed description of how the system is to be built on concrete technologies.
+
+The implementation details generally include -
+
+Restructuring the class data (if necessary),
+Implementation of methods, i.e., internal data structures and algorithms,
+Implementation of control, and
+Implementation of associations.
+Grady Booch has defined object-oriented design as "a method of design encompassing the process of object-oriented decomposition and a notation for depicting both logical and physical as well as static and dynamic models of the system under design".

@@ -1,0 +1,2 @@
+Object-Oriented Analysis
+Object-Oriented Analysis (OOA) is the procedure of identifying software engineering requirements and developing software specifications in terms of a software system's object model, which comprises of interacting objects.
